@@ -1,15 +1,19 @@
 # :computer: Gabriel Bordoni
-## :wave: Hi there!
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> Hi there!
 
-<summary>📫 <b>Contact Me</b>: </summary>
- <br>
+<summary>:man_technologist: <b>About Me</b>: </summary>
 <div align="center">
-  
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-bordoni/)](https://www.linkedin.com/in/gabriel-bordoni/)
-  [![Outlook Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:bordoni.gabriel@hotmail.com)](bordoni.gabriel@hotmail.com)
-  [![Lattes Badge](https://img.shields.io/badge/-Lattes-000?style=flat&logo=read-the-docs&logoColor=white)](http://lattes.cnpq.br/7148820108588082)
 
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-bordoni/)](https://www.linkedin.com/in/gabriel-bordoni/)
+  [![Lattes Badge](https://img.shields.io/badge/-Lattes-000?style=flat&logo=read-the-docs&logoColor=white)](http://lattes.cnpq.br/7148820108588082)
+ </div>
+ 
+<summary>📫 <b>Contact Me</b>: </summary>
+<div align="center">
+ 
+[![Hotmail Badge](https://img.shields.io/badge/Outlook-1781EB?style=flat-square&logo=microsoft-outlook&logoColor=fff&labelColor=1781EB)](mailto:bordoni.gabriel@hotmail.com)
 </div>
+
 
 
 
