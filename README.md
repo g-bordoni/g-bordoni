@@ -1,5 +1,5 @@
 # :computer: Gabriel Bordoni
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> Hi there!
+## Hi there!
 
 <summary>:man_technologist: <b>About Me</b>: </summary>
 <div align="center">
